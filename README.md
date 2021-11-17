@@ -4,6 +4,7 @@ Therefore I have create an Docker image so you can run [Real-Time-Voice-Cloning
 ](https://github.com/CorentinJ/Real-Time-Voice-Cloning) just by having Docker.
 
 ## Build
+First download the [pre-trained model](Real-Time-Voice-Cloning/wiki.md).
 Build the image:
 ```shell
 docker build -t rtvcc .
